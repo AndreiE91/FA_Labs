@@ -1,0 +1,1 @@
+Hello world! This message was read from input.txt and written into output.txt!
