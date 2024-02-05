@@ -5,7 +5,7 @@
 #include <ctime>
 using namespace std;
 
-/* This lab I learned that BFSand DFS only differ in the way we select nodes; BFS uses a queue, while DFS uses a stack.Very similar algorithms which do the same thing but
+/* This time I learned that BFSand DFS only differ in the way we select nodes; BFS uses a queue, while DFS uses a stack.Very similar algorithms which do the same thing but
 // in a different order. Although DFS is yet to come in the next lab, I learned this while studying BFS. 
 
 // Time complexity-wise, BFS runs in O(V + E) time, as the first part of the code runs a for loop that goes |V| steps and then we have the part where we enqueue every neighbor
